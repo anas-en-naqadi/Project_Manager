@@ -34,16 +34,17 @@ This is a project management web application built with Laravel and React. It pr
 ## Screenshots
 
 ### Login Page
-![Login Page](https://github.com/your-username/project-manager/blob/main/path/to/login-page.png)
+![Login Page](https://github.com/anas-en-naqadi/Project_Manager/blob/main/screenshots/login.PNG)
+
 
 ### Dashboard
-![Dashboard](https://github.com/your-username/project-manager/blob/main/path/to/dashboard.png)
+![Dashboard](https://github.com/anas-en-naqadi/Project_Manager/blob/main/screenshots/dashbord.PNG)
 
 ### Employees List
-![Employees List](https://github.com/your-username/project-manager/blob/main/path/to/employees-list.png)
+![Employees List](https://github.com/anas-en-naqadi/Project_Manager/blob/main/screenshots/employees.PNG)
 
 ### Profile Page
-![Profile Page](https://github.com/your-username/project-manager/blob/main/path/to/profile-page.png)
+![Profile Page](https://github.com/anas-en-naqadi/Project_Manager/blob/main/screenshots/profile.PNG)
 
 ## Installation
 
